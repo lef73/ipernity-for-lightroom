@@ -1,0 +1,1 @@
+_G.test = "Das ist ein Test!"
